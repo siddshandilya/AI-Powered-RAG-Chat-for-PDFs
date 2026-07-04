@@ -1,11 +1,8 @@
 # AI-Powered-RAG-Chat-for-PDFs
 AI-powered RAG chatbot for PDFs built with Streamlit, LlamaIndex, and Nebius AI's Qwen3. Upload documents, perform semantic search, and receive accurate, context-aware answers through an interactive chat interface.
 
-# 🚀 DocWhisper – AI-Powered RAG Chat for PDFs
 
-> **An enterprise-grade Retrieval-Augmented Generation (RAG) application that enables users to chat with PDF documents using state-of-the-art Large Language Models, semantic retrieval, and an intuitive Streamlit interface.**
-
-Built with **Streamlit**, **LlamaIndex**, **Nebius AI**, and **Qwen3-235B-A22B**, this project demonstrates a production-style RAG pipeline featuring document ingestion, semantic search, context retrieval, and transparent AI reasoning.
+An enterprise-grade Retrieval-Augmented Generation (RAG) application that enables users to chat with PDF documents using state-of-the-art Large Language Models, semantic retrieval, and an intuitive Streamlit interface. Built with **Streamlit**, **LlamaIndex**, **Nebius AI**, and **Qwen3-235B-A22B**, this project demonstrates a production-style RAG pipeline featuring document ingestion, semantic search, context retrieval, and transparent AI reasoning.
 
 ---
 
