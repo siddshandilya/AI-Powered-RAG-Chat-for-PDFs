@@ -114,22 +114,6 @@ The result is a fast, intelligent document assistant capable of answering questi
 | Vector Search | LlamaIndex Vector Store |
 | Language | Python |
 
----
-
-# 📂 Project Structure
-
-```text
-.
-├── main.py
-├── requirements.txt
-├── assets/
-│   ├── demo.gif
-│   └── screenshots/
-├── utils/
-├── data/
-├── README.md
-└── .env
-```
 
 ---
 
@@ -138,9 +122,9 @@ The result is a fast, intelligent document assistant capable of answering questi
 ## Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/docwhisper.git
+git clone https://github.com/siddshandilya
 
-cd docwhisper
+cd AI-Powered-RAG-Chat-for-PDFs
 ```
 
 ## Create a virtual environment
